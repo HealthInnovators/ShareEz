@@ -1,0 +1,16 @@
+awswrangler
+boto3
+cryptography
+fastapi
+gunicorn
+httpx
+jinja2
+pandas
+psutil
+pyarrow
+pyjwt
+pydantic[email]
+python-multipart
+uvicorn
+requests
+strenum

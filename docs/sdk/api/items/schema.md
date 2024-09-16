@@ -1,0 +1,1 @@
+::: ShareEz.items.schema
